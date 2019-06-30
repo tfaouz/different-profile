@@ -60,8 +60,8 @@ h3 {
   width: 100%;
   margin: 0 0 30px;
   overflow: auto;
-  color: #ffffff;
-  background: #ffffff;
+  color: black;
+  background: black;
   border-bottom: 2px solid #cccccc;
 }
 
@@ -76,7 +76,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: black;
 }
 
 nav {
@@ -107,7 +107,7 @@ footer {
   color: #ffffff;
   color: #cccccc;
   text-align: center;
-  background: #666666;
+  background: black;
   border-top: 8px solid #4aaaa5;
   height: 50px;
 }
@@ -132,7 +132,7 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: #ffffff;
+  background: black;
   border: 1px solid #dddddd;
 }
 
@@ -166,7 +166,7 @@ h3, h2 {
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #4aaaa5;
+  background: black;
   border-bottom: 0;
 }
 
